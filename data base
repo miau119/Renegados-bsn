@@ -1,0 +1,13 @@
+database/
+├── players/
+├── items/
+├── weapons/
+├── armors/
+├── pets/
+├── enemies/
+├── shop/
+├── bank/
+├── classes/
+├── skills/
+├── drops/
+└── missions/
