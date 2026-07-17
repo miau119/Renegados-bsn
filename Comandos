@@ -1,7 +1,8 @@
-commands/economia/.gitkeep
-commands/rpg/.gitkeep
-commands/inventario/.gitkeep
-commands/equipamiento/.gitkeep
-commands/mascotas/.gitkeep
-commands/perfil/.gitkeep
-commands/admin/.gitkeep
+commands/
+│   ├── economia/
+│   ├── rpg/
+│   ├── inventario/
+│   ├── equipamiento/
+│   ├── mascotas/
+│   ├── perfil/
+│   └── admin/
